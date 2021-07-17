@@ -1,0 +1,5 @@
+applications:
+ - name: cindrellaAngular
+   random-route: true
+   path: dist/cindrellaAngular
+   memory: 128MB
