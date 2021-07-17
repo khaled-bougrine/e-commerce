@@ -1,5 +1,6 @@
 applications:
  - name: cindrellaAngular
-   random-route: true
+   routes:
+    - route: cindrella.us-south.cf.appdomain.cloud
    path: dist/cindrellaAngular
    memory: 128MB
